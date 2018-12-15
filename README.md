@@ -1,16 +1,13 @@
 # flutter_ui_app
 
-A new Flutter application.
+### :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/nb312).Thanks!
 
-## Getting Started
+### You will learn: 
+1 | 2 | 3 | 4 
+--- | --- | --- | ---
+StreamBuilder | SliverAppBar| SliverGrid | GlobalKey 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="./doc/home_page.png" width="320"/>
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Developing....
