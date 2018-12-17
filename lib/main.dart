@@ -13,9 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: StringConst.APP_NAME,
       debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primaryColor: MAIN_COLOR,
-      ),
+      theme: ThemeData(primaryColor: MAIN_COLOR, accentColor: MAIN_COLOR),
       home: HomePage(),
       routes: {
         PageConst.profileOneRoute: (context) => ProfileOnePage(),
