@@ -6,9 +6,9 @@
 1 | 2 | 3 | 4 
 --- | --- | --- | ---
 StreamBuilder | SliverAppBar| SliverGrid | GlobalKey 
-Developing....
+CircleAvatar | SingleChildScrollView | showModalBottomSheet | AboutListTile
 
 
-<img src="./doc/home_page.png" width="320"/>
-
+<img src="./doc/home_page.png" width="320"/><img src="./doc/profile_1.png" width="320"/>
+<img src="./doc/drawer.png" width="320"/><img src="./doc/show_dialog.png" width="320"/>
 
