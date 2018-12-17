@@ -10,6 +10,7 @@ import "package:flutter/material.dart";
 class StringConst {
   //strings
   static const String APP_NAME = "Flutter UI APP";
+  static const String CREATE_BY = "Created By NieBin";
 }
 
 class PageConst {
