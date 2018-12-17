@@ -46,7 +46,7 @@ class CommonDrawer extends StatelessWidget {
 
   Widget _item(context, item) => ListTile(
         title: Text(
-          item["title"],
+          item["title"].substring(1),
           style: TextStyle(
               color: Colors.grey[900],
               fontWeight: FontWeight.w700,
@@ -57,9 +57,9 @@ class CommonDrawer extends StatelessWidget {
           color: item["color"],
         ),
         onTap: () {
-          var isEqual = item["title"] == title;
+          var isEqual = item["title"].substring(1) == title;
           if (isEqual || this.context == null) return;
-          var pageName = "/${item["title"]}";
+          var pageName = item["title"];
           Navigator.pop(context);
           Navigator.pop(this.context);
           Navigator.pushNamed(context, pageName);
