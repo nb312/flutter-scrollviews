@@ -13,6 +13,6 @@ class TimeOnePage extends StatefulWidget {
 class _TimeOneState extends State<TimeOnePage> {
   @override
   Widget build(BuildContext context) {
-    return null;
+    return Text("empty");
   }
 }

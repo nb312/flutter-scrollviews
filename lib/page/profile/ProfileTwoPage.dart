@@ -13,6 +13,6 @@ class ProfileTwoPage extends StatefulWidget {
 class _ProfileTwoState extends State<ProfileTwoPage> {
   @override
   Widget build(BuildContext context) {
-    return null;
+    return Text("profileTwo");
   }
 }

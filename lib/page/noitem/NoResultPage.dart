@@ -13,6 +13,6 @@ class NoResultPage extends StatefulWidget {
 class _NoResultState extends State<NoResultPage> {
   @override
   Widget build(BuildContext context) {
-    return null;
+    return Text("empty");
   }
 }

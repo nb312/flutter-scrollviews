@@ -13,6 +13,6 @@ class TimeTwoPage extends StatefulWidget {
 class _TimeTwoState extends State<TimeTwoPage> {
   @override
   Widget build(BuildContext context) {
-    return null;
+    return Text("empty");
   }
 }
