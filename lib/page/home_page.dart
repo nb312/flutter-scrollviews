@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget {
             decoration: BoxDecoration(
               gradient: LinearGradient(colors: [
                 Colors.grey[900],
-                Colors.lightBlueAccent,
+                Colors.cyan,
               ]),
             ),
           ),
@@ -95,7 +95,7 @@ class HomePage extends StatelessWidget {
         padding: EdgeInsets.symmetric(horizontal: 20.0, vertical: 4.0),
         decoration: BoxDecoration(
           gradient: LinearGradient(colors: [
-            Colors.lightBlueAccent,
+            Colors.cyanAccent,
             Colors.grey[900],
           ]),
         ),
