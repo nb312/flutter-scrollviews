@@ -51,7 +51,7 @@ class HomePage extends StatelessWidget {
         padding: EdgeInsets.symmetric(horizontal: 20.0),
         decoration: BoxDecoration(boxShadow: [
           BoxShadow(
-            color: Colors.grey[900],
+            color: Colors.grey[800],
             offset: Offset(0.0, 2.0),
           )
         ]),
