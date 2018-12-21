@@ -12,6 +12,7 @@ class StringConst {
   static const String APP_NAME = "Flutter UI APP";
   static const String CREATE_BY = "Created By NieBin";
   static const String DEVELOPER = "NieBin";
+  static const String PROFESSION = "Flutter Developer";
   static const String DEV_EMAIL = "niebin312@gmail.com";
 }
 

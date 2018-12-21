@@ -28,6 +28,7 @@ class BasePage extends StatelessWidget {
             ),
           )
         ],
+        elevation: 0.0,
       ),
       body: body,
       floatingActionButton: bottomIcon == null
